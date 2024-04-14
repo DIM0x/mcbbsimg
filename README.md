@@ -22,7 +22,11 @@
 - `https://luoyunlingyu-mcbbs.github.io/mcbbsimg/static/static/image/smiley/tong/doge.png`
 - `https://luoyunlingyu-mcbbs.github.io/mcbbsimg/attachment/forum/202101/16/084431yfgz01scc9soe7az.png`
 
-**提示：论坛网页中某些链接并非原图链接，而是显示缩略图，如`img_thumb.png`，我们并未对此类缩略图进行保存，请考虑替换为原尺寸图片。**
+> 提示：论坛网页中某些链接并非原图链接，而是显示缩略图，如`img_thumb.png`。
+> 
+> 对于某些图片的缩略图我们并未保存。同时也有部分图片只保留了缩略图。
+> 
+> 如果替换的链接存在无法找到资源的情况，请考虑替换链接为原图或缩略图链接后再试。
 
 # 声明
 
